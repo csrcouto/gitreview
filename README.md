@@ -17,6 +17,8 @@ https://www.git-scm.com/download
 
 - [x] você quer colocar seu projeto no github
 
+- [x] precisamos retornar um arquivo para determinado ponto da linha do tempo
+
 * `git init` // inicia a linha do tempo
 * `git add` // adiciona ou atualiza arquivos para irem para a linha do tempo
 * `git commit` // adiciona um ponto na linha do tempo
@@ -27,3 +29,5 @@ https://www.git-scm.com/download
 * `git checkout` // manipula as branches
 * `git merge` // unir as branches
 * `git push` // envia as alterações do repositório local para o repositório remoto
+* `git clone` // clonar um projeto/repositório
+* `git pull` // puxar as atualizações do repositório remoto
